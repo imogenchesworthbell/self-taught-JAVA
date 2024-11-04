@@ -13,6 +13,7 @@ To Do List:
 - How to test/debug?
 - Find and create a beginner project in Java.
 
+
 Week 1 Plan:
 - Variables and Data Types (data types, declaration, initialization and common methods)
 - If-Else statements/control (if else, logical operators and switch statements)
@@ -28,11 +29,10 @@ Week 4 Plan:
 Websites/Courses found that I can use:
 
 - Learning Plan - https://swe-learning-plans.netlify.app/languages/java.html
-- https://www.codecademy.com/learn/learn-java
 - https://www.pluralsight.com/paths/java-se-17
 - https://www.udemy.com/course/java-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-UfB4ehpx3sT93US_xK8IFg
 - https://www.baeldung.com/java-tutorial
-
+- https://www.codecademy.com/learn/learn-java
 
 Notes:
 
@@ -50,3 +50,14 @@ Pull from github:
 # Week 1
 Learning using the above pluralsight Java Course.
 
+Variables:
+- int firstVariable = 25; // This can be changed 
+- final secondVariable = 30 // 'final' value can't be changed once it is set
+
+Data Types:
+- Integer types (byte (-128...127), short (-32768...32767), int (-2147483648...2147483647), long (-(massiveNumber)L ... (massiveNumber)L))
+- Floating Point Types (float (-(number.number)f...(number.number)f), double (-(biggerNumber.biggerNumber)d...(biggerNumber.biggerNumber)d)
+- Character Type [single character not strings] (char)
+- Boolean Type (has values of either true or false)
+
+Arithmetic Operators:
