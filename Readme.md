@@ -32,3 +32,18 @@ Websites/Courses found that I can use:
 - https://www.pluralsight.com/paths/java-se-17
 - https://www.udemy.com/course/java-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-UfB4ehpx3sT93US_xK8IFg
 - https://www.baeldung.com/java-tutorial
+
+
+Notes:
+
+Push back to github:
+- git add .
+- git commit -m"message here"
+- git push --set-upstream origin ICB
+
+Pull from github:
+- git fetch
+- git pull
+- git merge origin/main
+
+
