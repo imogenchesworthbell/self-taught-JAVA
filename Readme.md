@@ -47,3 +47,6 @@ Pull from github:
 - git merge origin/main
 
 
+# Week 1
+Learning using the above pluralsight Java Course.
+
