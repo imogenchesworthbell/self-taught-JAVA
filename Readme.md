@@ -19,7 +19,11 @@ Week 1 Plan:
 - For and while loops (for, while, break, continue, for each)
 - Classes and Methods (class and object instantiation, constructors, this keyword, get/set methods inheritance, and public/private.)
 
+Week 2 Plan:
 
+Week 3 Plan:
+
+Week 4 Plan:
 
 Websites/Courses found that I can use:
 
@@ -28,6 +32,3 @@ Websites/Courses found that I can use:
 - https://www.pluralsight.com/paths/java-se-17
 - https://www.udemy.com/course/java-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-UfB4ehpx3sT93US_xK8IFg
 - https://www.baeldung.com/java-tutorial
-
-
-# self-taught-JAVA
