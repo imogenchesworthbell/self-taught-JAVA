@@ -6,7 +6,7 @@
 
 -[ ] Is there a required structure for Java?
 
--[ ] How do I declare variables?
+-[x] How do I declare variables?
 
 -[x] What data types exist in JAVA?
 
@@ -26,7 +26,7 @@
 ### Week 1 Plan:
 -[x] **Variables and Data Types** - data types, declaration, initialization and common methods
 
--[ ] **If-Else statements/control** - if else, logical operators and switch statements
+-[x] **If-Else statements/control** - if else, logical operators and switch statements
 
 -[ ] **For and while loops** - for, while, break, continue, for each
 
