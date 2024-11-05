@@ -7,6 +7,23 @@ public class Main {
         }
 
         String name = "Imogen";
-        System.out.println(name);
+        int nameLength = name.length();
+
+        for(int i = 0; i < nameLength; i++){
+            System.out.print(name.charAt(i));
+        };
+
+        System.out.println(" there are " + nameLength +" letters. ");
+
+        // An example of using another file, MathUtils.java, and importing a math method from there...
+        int likes = 200;
+        int dislikes = 24;
+
+        double total = MathUtils.ratio(likes, dislikes);
+        System.out.println(total);
+
+        int x = 34;
+        double randomNum = MathUtils.random(x);
+        System.out.print("A random number between 0 and " + x + " is: " + randomNum);
     }
 }
