@@ -41,11 +41,11 @@
 
 Websites/Courses found that I can use:
 
-### Learning Plan 
+### Websites / Learning Plan
 - https://swe-learning-plans.netlify.app/languages/java.html
 - https://www.pluralsight.com/paths/java-se-17
 - https://www.w3schools.com/java/
-- https://www.codecademy.com/learn/learn-java
+- https://www.youtube.com/watch?v=b5l5UodFzMo
 
 ### Notes:
 
