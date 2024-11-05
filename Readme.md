@@ -3,22 +3,35 @@
 ### To Do List:
 
 -[x] Make sure all environments/software are installed
+
 -[ ] Is there a required structure for Java?
+
 -[ ] How do I declare variables?
+
 -[x] What data types exist in JAVA?
+
 -[ ] How do I declare functions?
+
 -[ ] How do I declare Classes?
+
 -[ ] How do I control the flow of my application?
+
 -[ ] How do I do loops?
+
 -[ ] How to test/debug?
+
 -[ ] Find and create a beginner project in Java.
 
 
 ### Week 1 Plan:
 -[x] **Variables and Data Types** - data types, declaration, initialization and common methods
+
 -[ ] **If-Else statements/control** - if else, logical operators and switch statements
+
 -[ ] **For and while loops** - for, while, break, continue, for each
+
 -[ ] **Classes and Methods** - class and object instantiation, constructors, this keyword, get/set methods inheritance, and public/private.
+
 
 ### Week 2 Plan:
 
@@ -57,19 +70,19 @@ Learning using the above pluralsight Java Course (Entry Level).
 ### Data Types:
 - **Integer types**
 
-(byte (-128...127), short (-32768...32767), int (-2147483648...2147483647), long (-(massiveNumber)L ... (massiveNumber)L))
+(**byte** (-128...127), **short** (-32768...32767), **int** (-2147483648...2147483647), **long** (-(massiveNumber)L ... (massiveNumber)L))
 
 - **Floating Point Types** 
 
-(float (-(number.number)f...(number.number)f), double (-(biggerNumber.biggerNumber)d...(biggerNumber.biggerNumber)d)
+(**float** (-(number.number)f...(number.number)f), **double** (-(biggerNumber.biggerNumber)d...(biggerNumber.biggerNumber)d)
 
 - **Character Type** [single character not strings] 
 
-(char, e.g 'U')
+(**char**, e.g 'U')
 
 - **Boolean Type** 
 
-(has values of either true or false)
+(**boolean** - has values of either true or false)
 
 ### Type Conversion:
 Widening conversions happen automatically, however, when shortening we need to specify.
