@@ -25,6 +25,7 @@ public class Calculator {
                     System.out.println("Error: Division by zero is not allowed.");
                     return;
                 }
+                break;
             default:
                 System.out.println("Invalid opCode: " + opCode);
                 result = 0.0d;

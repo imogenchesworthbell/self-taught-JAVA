@@ -68,21 +68,33 @@ Learning using the above pluralsight Java Course (Entry Level).
 - **final** secondVariable = 30 - 'final' value can't be changed once it is set
 
 ### Data Types:
-- **Integer types**
+**Integer types**
 
-(**byte** (-128...127), **short** (-32768...32767), **int** (-2147483648...2147483647), **long** (-(massiveNumber)L ... (massiveNumber)L))
+- **byte** (-128...127)
 
-- **Floating Point Types** 
+- **short** (-32768...32767)
 
-(**float** (-(number.number)f...(number.number)f), **double** (-(biggerNumber.biggerNumber)d...(biggerNumber.biggerNumber)d)
+- **int** (-2147483648...2147483647)
 
-- **Character Type** [single character not strings] 
+- **long** (-(massiveNumber)**L** ... (massiveNumber)**L**)
 
-(**char**, e.g 'U')
+**Floating Point Types** 
 
-- **Boolean Type** 
+- **float** (-(number.number)**f**...(number.number)**f**)
 
-(**boolean** - has values of either true or false)
+- **double** (-(biggerNumber.biggerNumber)**d**...(biggerNumber.biggerNumber)**d**)
+
+**Character Type** [single character not strings] 
+
+- **char** (e.g 'U') 
+
+**Boolean Type** 
+
+- **boolean** (has values of either true or false)
+
+**String Type**
+
+- **String** ("Hello")
 
 ### Type Conversion:
 Widening conversions happen automatically, however, when shortening we need to specify.
@@ -107,4 +119,4 @@ this would turn the longValue into a short and then store example1 as that new s
 - || - conditional or
 (conditional looks if the right stands and if it does then it will look at the left)
 
-###
+### Loops and Arrays
