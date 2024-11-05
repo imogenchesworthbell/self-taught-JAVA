@@ -1,18 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.print("Hello World!");
+        System.out.print("Hello World!"); //println adds a line after printing print doesn't
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
         }
+        System.out.println("Third Line from app");
 
-        System.out.print("Third Line from app");
-
-        //this is a line comment
-
-        /*This is a
-        block
-        comment*/
 
     }
 }
