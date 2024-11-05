@@ -8,7 +8,31 @@ public class Calculator {
         double result = 0.0d;
         char opCode = 'd';
 
-        if(opCode == 'a')
+        switch (opCode){
+            case 'a':
+                result = value1 + value2;
+                break;
+            case 's':
+                result = value1 - value2;
+                break;
+            case 'm':
+                result = value1 * value2;
+                break;
+            case 'd':
+                if (value2 != 0) {
+                    result = value1 / value2;
+                } else {
+                    System.out.println("Error: Division by zero is not allowed.");
+                    return;
+                }
+            default:
+                System.out.println("Invalid opCode: " + opCode);
+                result = 0.0d;
+            break;
+        }
+        System.out.println("Result: " + result);
+    /*   //using if else instead of switch
+     if(opCode == 'a')
             result = value1 + value2;
         else if(opCode == 's')
             result = value1 - value2;
@@ -17,11 +41,13 @@ public class Calculator {
         else if(opCode == 'd'){
             if(value2 != 0)
                 result = value1 / value2;
+
         }
         else {
             System.out.println("Invalid opCode: " + opCode);
             result = 0.0d;
         }
-        System.out.println("Result: " + result);
+
+        System.out.println("Result: " + result);*/
     }
 }
