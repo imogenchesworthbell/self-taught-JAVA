@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class RockPaperScissors {
 
     public static String randomChoice() {
@@ -13,18 +15,26 @@ public class RockPaperScissors {
     }
 
     public static void winner(){
-        String player1 = randomChoice();
+        Scanner user = new Scanner(System.in);
+
+        System.out.println("Enter username");
+        String userName = user.nextLine();
+
+
+        System.out.println("Time to choose " + userName + "! Rock, Paper or Scissors");
+        String player1 = user.nextLine();
+
         String player2 = randomChoice();
 
-        System.out.println("Player 1 chose: " + player1 );
-        System.out.println("Player 2 chose: " + player2 );
+        System.out.println("You chose: " + player1 );
+        System.out.println("The computer chose: " + player2 );
 
         if ( player1.equals(player2)){
             System.out.println("It's a tie");
         } else if ((player1.equals("Rock") && player2.equals("Scissors")) || (player1.equals("Paper") && player2.equals("Rock")) || (player1.equals("Scissors") && player2.equals("Paper"))) {
-            System.out.println("Player 1 wins!");
+            System.out.println(userName + " wins!");
         } else {
-            System.out.println("Player 2 wins!");
+            System.out.println("The computer wins!");
     }
     }
 
