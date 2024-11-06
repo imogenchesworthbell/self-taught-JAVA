@@ -39,8 +39,6 @@
 
 ### Week 4 Plan:
 
-Websites/Courses found that I can use:
-
 ### Websites / Learning Plan
 - https://swe-learning-plans.netlify.app/languages/java.html
 - https://www.pluralsight.com/paths/java-se-17
