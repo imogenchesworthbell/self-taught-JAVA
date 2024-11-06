@@ -13,7 +13,7 @@ public class Main {
         System.out.println(total);
 
         int x = 34;
-        double randomNum = MathUtils.random(x);
+        int randomNum = MathUtils.random(x);
         System.out.print("A random number between 0 and " + x + " is: " + randomNum);
     }
 }
