@@ -39,11 +39,14 @@
 
 ### Week 4 Plan:
 
-### Websites / Learning Plan
+### Websites Used / Learning Plan
 - https://swe-learning-plans.netlify.app/languages/java.html
 - https://www.pluralsight.com/paths/java-se-17
 - https://www.w3schools.com/java/
 - https://www.youtube.com/watch?v=b5l5UodFzMo
+- https://www.youtube.com/watch?v=TiccevwEVe8
+- https://edabit.com
+- https://codewars.com
 
 ### Notes:
 
