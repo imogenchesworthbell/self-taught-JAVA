@@ -22,22 +22,120 @@
 
 -[ ] Find and create a beginner project in Java.
 
+### 4 week Learning Plan
 
-### Week 1 Plan:
--[x] **Variables and Data Types** - data types, declaration, initialization and common methods
+**Days 1–3: Java Basics**
 
--[x] **If-Else statements/control** - if else, logical operators and switch statements
+**Day 1: Introduction and Setup**
 
--[ ] **For and while loops** - for, while, break, continue, for each
+Research Java – Read about what Java is, its history, and its applications.
+Install JDK and IDE – Set up Java JDK and a preferred IDE (IntelliJ IDEA or Eclipse).
+Write "Hello, World!" – Create a simple program that prints "Hello, World!"
 
--[ ] **Classes and Methods** - class and object instantiation, constructors, this keyword, get/set methods inheritance, and public/private.
+**Day 2: Basic Syntax and Data Types**
 
+Variables and Data Types – Learn about different data types in Java (int, float, double, char, boolean).
+Operators – Study arithmetic, comparison, logical, and assignment operators.
 
-### Week 2 Plan:
+**Day 3: Control Structures**
 
-### Week 3 Plan:
+Conditional Statements – Practice using if, else, and switch.
+Loops – Learn about for, while, and do-while loops.
+Mini-Project – Create a basic calculator that performs arithmetic based on user input.
+Mini-Project – Create a user playable Rock Paper Scissors
+Days 4–6: Object-Oriented Programming (OOP)
 
-### Week 4 Plan:
+**Day 4: Introduction to OOP**
+
+Understand OOP Concepts – Study concepts like classes, objects, inheritance, and polymorphism.
+Create Your First Class – Define a class with basic fields and methods (e.g., a Person class with name and age).
+Watched forrest knights java video coded along and made an inventory able to add items.
+
+**Day 5: Encapsulation and Access Modifiers**
+
+Encapsulation – Learn about getters and setters to protect class properties.
+Access Modifiers – Study public, private, protected, and package-private.
+
+**Day 6: Inheritance and Polymorphism**
+
+Inheritance – Create a subclass that extends an existing class (e.g., Employee extending Person).
+Polymorphism – Practice using polymorphic methods and method overriding.
+Mini-Project – Develop a simple “Employee Management” system where different employee types (e.g., manager and salesperson) have unique properties.
+
+**Days 7–9: Advanced Java Concepts**
+
+**Day 7: Exception Handling**
+
+Try-Catch Blocks – Learn how to handle exceptions and use try-catch blocks.
+Custom Exceptions – Create a custom exception for practice.
+
+**Day 8: Generics and Collections**
+
+Introduction to Generics – Learn about generics to write flexible, type-safe code.
+Collections – Study commonly used collections (ArrayList, HashMap, etc.).
+
+**Day 9: Working with Collections**
+
+Practice with Collections – Create a small program that uses ArrayList, HashMap, and HashSet.
+Mini-Project – Build a “Student Database” that allows adding, removing, and searching for students using collections.
+
+**Days 10–11: Multithreading and File I/O**
+
+**Day 10: Multithreading Basics**
+
+Understanding Threads – Learn how threads work in Java and their importance.
+Creating Threads – Practice creating and running threads with Runnable and Thread classes.
+
+**Day 11: File I/O**
+
+File Reading and Writing – Learn to read from and write to text files using FileReader, BufferedReader, FileWriter, and BufferedWriter.
+Practice – Create a program that reads and writes user data to a file.
+
+**Days 12–13: Networking and Input/Output**
+
+**Day 12: Networking Basics**
+
+Socket Programming – Learn about networking and sockets to enable client-server communication.
+Simple Client-Server Chat – Create a basic client-server chat application that sends messages between users.
+
+**Day 13: Standard I/O**
+
+System Input and Output – Practice reading from and writing to the console using System.in and System.out.
+Mini-Project – Extend your “Chat Application” to save chat history to a file and load it on startup.
+
+**Days 14–15: Best Practices and Final Project**
+
+**Day 14: Java Best Practices**
+
+Code Organization and Style – Refactor code to follow best practices.
+Testing with JUnit – Write unit tests using JUnit for your classes and methods.
+
+**Day 15: Build Something!**
+
+**Week 4 Decide on a Project**
+
+[//]: # (### Week 1 Plan:)
+
+[//]: # (-[x] **Variables and Data Types** - data types, declaration, initialization and common methods)
+
+[//]: # ()
+[//]: # (-[x] **If-Else statements/control** - if else, logical operators and switch statements)
+
+[//]: # ()
+[//]: # (-[ ] **For and while loops** - for, while, break, continue, for each)
+
+[//]: # ()
+[//]: # (-[ ] **Classes and Methods** - class and object instantiation, constructors, this keyword, get/set methods inheritance, and public/private.)
+
+[//]: # ()
+[//]: # ()
+[//]: # (### Week 2 Plan:)
+
+[//]: # ()
+[//]: # (### Week 3 Plan:)
+
+[//]: # ()
+[//]: # (### Week 4 Plan:)
 
 ### Websites Used / Learning Plan
 - https://swe-learning-plans.netlify.app/languages/java.html

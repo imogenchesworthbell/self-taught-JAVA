@@ -1,4 +1,4 @@
-package Inventory;
+package OOPInventory;
 
 //inventory code using Forrest Knight YouTube Video
 public class Item {
