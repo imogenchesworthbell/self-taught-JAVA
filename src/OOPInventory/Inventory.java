@@ -1,4 +1,4 @@
-package Inventory;
+package OOPInventory;
 
 import java.util.ArrayList;
 

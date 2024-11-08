@@ -1,4 +1,4 @@
-package Inventory;
+package OOPInventory;
 
 public class Weapon extends Item{
     private int damage;
