@@ -1,4 +1,4 @@
-package OOPHierarchy;
+package OOPLibrary;
 
 public class LibraryItem {
     String title;

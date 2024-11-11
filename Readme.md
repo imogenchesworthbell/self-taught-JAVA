@@ -217,5 +217,3 @@ this would turn the longValue into a short and then store example1 as that new s
 - && - conditional and
 - || - conditional or
 (conditional looks if the right stands and if it does then it will look at the left)
-
-### Loops and Arrays

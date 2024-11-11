@@ -1,4 +1,4 @@
-package OOPHierarchy;
+package OOPLibrary;
 
 public class Main {
     public static void main(String[] args) {

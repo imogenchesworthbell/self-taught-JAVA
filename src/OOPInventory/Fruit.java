@@ -12,6 +12,10 @@ public class Fruit extends Item {
         return type;
     }
 
+    public void setType(String type){
+         this.type = type;
+    }
+
     @Override
     public String toString(){
         return "Fruit: " + getName() + ", Quantity: " + getQuantity() + ", Type: " + type;
