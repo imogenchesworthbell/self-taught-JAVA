@@ -21,7 +21,8 @@ Design a console-based student database system using Object-Oriented Programming
 - addStudent(Student student) - Adds a student to the database.
 - removeStudent(int studentId) - Removes a student from the database by their ID.
 - findStudent(int studentId) - Searches for a student by their ID and returns their details.
+- updateStudent(studentId, String newName, int newAge, int newGrade) - Update a students' information
 
-**Main:**
+- **Main:**
 
 - main(String[] args) - The main method that runs the program. It interacts with the user to add, remove, or search for students in the database. It uses the StudentDatabase class to perform these actions.
