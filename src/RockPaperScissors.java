@@ -1,3 +1,5 @@
+// made this version before I separated them out into classes in the RockPaperScissors Folder
+
 import java.util.Scanner;
 
 public class RockPaperScissors {
