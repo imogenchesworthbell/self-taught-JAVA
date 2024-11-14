@@ -4,7 +4,7 @@
 
 -[x] Make sure all environments/software are installed
 
--[ ] Is there a required structure for Java?
+-[x] Is there a required structure for Java?
 
 -[x] How do I declare variables?
 
