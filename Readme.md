@@ -4,19 +4,19 @@
 
 -[x] Make sure all environments/software are installed
 
--[ ] Is there a required structure for Java?
+-[x] Is there a required structure for Java?
 
 -[x] How do I declare variables?
 
 -[x] What data types exist in JAVA?
 
--[ ] How do I declare functions?
+-[x] How do I declare functions?
 
--[ ] How do I declare Classes?
+-[x] How do I declare Classes?
 
 -[ ] How do I control the flow of my application?
 
--[ ] How do I do loops?
+-[x] How do I do loops?
 
 -[ ] How to test/debug?
 
