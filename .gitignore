@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!src/ScooterApp/src/main/**/out/
+!src/ScooterApp/src/test/**/out/
 
 ### Eclipse ###
 .apt_generated
@@ -12,8 +12,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+!src/ScooterApp/src/main/**/bin/
+!src/ScooterApp/src/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/
