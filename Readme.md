@@ -10,7 +10,7 @@
 
 -[x] What data types exist in JAVA?
 
--[x] How do I declare functions?
+-[x] How do I declare functions(methods)?
 
 -[x] How do I declare Classes?
 
